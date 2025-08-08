@@ -1,0 +1,8 @@
+{
+  "build": {
+    "dockerfilePath": "Dockerfile"
+  },
+  "deploy": {
+    "startCommand": "bash /opt/outline/run.sh"
+  }
+}
